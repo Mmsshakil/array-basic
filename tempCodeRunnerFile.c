@@ -1,0 +1,1 @@
+printf("%d\n", arr[5]);
